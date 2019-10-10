@@ -1662,9 +1662,9 @@ input, select, textarea {
 
 #references p {
 	margin-left: 2em; 
- 	text-indent: -2em;
+	 text-indent: -2em;
+	 word-wrap: break-word;
 }
-
 #main li {
 	margin-bottom: 14px;
 }
